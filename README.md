@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola soy Leandro Farias 👋
+***Soy estudiante de la tecnicatura de desarrollo de software.***
 <!--
 **lean-farias/lean-farias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
